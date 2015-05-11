@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:bootstrapbutton="http://schemas.android.com/apk/res-auto"
+    xmlns:fontawesometext="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:configChanges="orientation|screenSize"
+    tools:context="${packageName}.${activityClass}" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Saved Stories:"
+        android:textColor="#428bca"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="No Stories have been saved."
+        android:textColor="#428bca"
+        android:textSize="12dp" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/loadView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#ffffff" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="70dp" >
+
+            <TextView
+                android:id="@+id/loadedText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/textviewshape"
+                android:gravity="left"
+                android:text="As it happens, &quot;Cloverfield&quot; clocks in at 84 minutes, a running time that includes the usual interminable wx .  It starts under the premise that we are watching an official, classified government video detailing a critical wx or events.  Then we are introduced to the cast, a hodgepodge of late wx-something young things who consistently do any and everything that is wx to basic logic and human nature throughout the film.  Take for example Hud,  the hapless best friend of the film&apos;s  main character who inexplicably documents each and every single events despite his admitted dislike of wx (and oh yeah while he&apos;s running for his life).   If there is anything controversial or thought-provoking about this film, it would have to be the movie&apos;s allusions to the events of 9/11.  But don&apos;t worry, &quot;Cloverfield&quot; is far too dumb to offend everything except your wx.  While the film is nominally a monster movie, in truth it is mostly a feature length gimmick.  Like too many big-studio productions, &quot;Cloverfield&quot; works as a showcase for impressively realistic-looking speical effects.  As a consequence, the movie&apos;s best actor is the 40 foot monster who systematically trashes downtown Manhattan.  The rest of the case is about as smart as tater tots and half as wx.  Rarely have I rooted for a monster with such enthusiasm. "
+                android:textSize="22dp" />
+        </LinearLayout>
+    </ScrollView>
+
+<!--     <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7397598838415153/9188218221" /> -->
+
+</RelativeLayout>

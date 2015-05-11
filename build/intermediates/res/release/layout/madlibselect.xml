@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:bootstrapbutton="http://schemas.android.com/apk/res-auto"
+    xmlns:fontawesometext="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/SelectLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:id="@+id/selectView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/banner"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/banner" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="A"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/A_Letter_to_the_Bride"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/A_Road_Trip"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/Attacked_by_Aliens"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="B"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Beauty_and_the_Beast"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="D"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Day_at_Beach"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/Doras_Surprise"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="F"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Farmyard_Storm"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="H"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Harry_Potter_Story"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="I"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Intruders"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/Itsy_Spider"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="J"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Job_Interview"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="K"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Knights_of_Ni"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="L"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Let_it_go"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/Letter_Home_From_Camp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/Life_on_the_Farm"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="M"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Magic_Mushrooms"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/Making_A_Sandwich"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="N"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/New_Creature"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="O"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Oxi_Clean"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/OneD"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="P"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Pirates"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="R"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Rockstar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="S"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/School_Sickness"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/Crazy_Encounter"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/Set_Fire"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/Survey"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/Swimming_Lessons"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="T"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/The_Dark"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/Twilight"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="U"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/Uprising"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="35dp"
+                android:text="W"
+                android:textColor="#428bca"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4px"
+                android:background="#90428bca" />
+
+            <Button
+                android:id="@+id/What_Happened_Last_Night"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_material"
+                android:text="Text"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:textSize="17sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout><!-- From: file:/D:/Documents/Documents/Eclipse%20New%20Workspace/StoryStudioPro/res/layout/madlibselect.xml -->

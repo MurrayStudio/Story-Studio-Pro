@@ -1,0 +1,12 @@
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\classes\release
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\release\classes-9c99ade571702d69735d786ea01f06a764c9c146.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\release\support-annotations-21.0.3-0a25a36c3f047245070cd2ccae09b33cc39b3976.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\release\classes-1642618b61869ffbc25693909f4cf880cfb847db.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\release\classes-12272a621f8b54d58c4fda8116a21eaa1e0fa70d.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\release\classes-b61e08974977f90d80c58233345d872800d99403.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\release\library-2.4.0-838bf989ecfed75373346570060a1ff0b576b6e5.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\release\internal_impl-21.0.3-4951711d850b45eb75dcb689d8eee627c4f72dd1.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\release\jsoup-1.7.3-3dff2915b4775f4992320a8ad3d412a0c6484fd9.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\release\classes-a0cdf50ee90a6bc16f499dd5fde844a72b5e29a7.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\release\classes-4d24977b56eed15e952401fa0a21d7811ca53448.jar
+D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\release\google-play-services-2b7f74657c23c14b23dd7cd7aacb60c2c19bc9a1.jar

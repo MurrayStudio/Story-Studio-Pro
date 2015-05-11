@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.MyTheme" parent="Theme.AppCompat.Light">
+
+        <!-- Set AppCompat’s actionBarStyle -->
+
+        <!-- The rest of your attributes -->
+    </style>
+
+</resources>

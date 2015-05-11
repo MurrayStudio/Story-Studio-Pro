@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Theme" >
+        <ListPreference
+            android:id="@+id/ListPreference0"
+            android:defaultValue="false"
+            android:entries="@array/list0"
+            android:entryValues="@array/LValues0"
+            android:key="list0"
+            android:summary="Choose Toolbar Color"
+            android:title="Action Bar Color" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Font Size" >
+        <ListPreference
+            android:id="@+id/ListPreference"
+            android:defaultValue="22"
+            android:entries="@array/list"
+            android:entryValues="@array/LValues"
+            android:key="list"
+            android:summary="Choose Font Size For Stories"
+            android:title="Font Size" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
