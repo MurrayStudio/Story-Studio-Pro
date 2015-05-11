@@ -51,4 +51,4 @@
         android:background="@drawable/create_button"
         android:src="@drawable/ic_action_new" />
 
-</RelativeLayout><!-- From: file:/D:/Documents/Documents/GitHub/StoryStudioPro/res/layout/madlibs_create_text.xml -->
+</RelativeLayout><!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/layout/madlibs_create_text.xml -->

@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\exploded-aar\com.android.support\android-support-v4-preferencefragment-master\1.0.0\classes.jar"
+        jar="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="97f01ff4b2846e9b0e94ac10865b137d56b4db5c">
-        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-1642618b61869ffbc25693909f4cf880cfb847db.jar" />
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-5aa604bc79272534c166bc1646ac69d956813111.jar" />
     </item>
     <item
         jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\libs\jsoup-1.7.3.jar"
@@ -14,13 +14,6 @@
         revision="21.1.2"
         sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da">
         <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\jsoup-1.7.3-3dff2915b4775f4992320a8ad3d412a0c6484fd9.jar" />
-    </item>
-    <item
-        jar="D:\Documents\Documents\GitHub\StoryStudioPro\libs\jsoup-1.7.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da">
-        <dex dex="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\pre-dexed\debug\jsoup-1.7.3-9a314c934828c21ed8a6b65e7be5c23f968e2247.jar" />
     </item>
     <item
         jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
@@ -37,25 +30,53 @@
         <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\library-2.4.0-838bf989ecfed75373346570060a1ff0b576b6e5.jar" />
     </item>
     <item
-        jar="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\exploded-aar\StoryStudioPro\AndroidBootstrap\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4258e65aa507dc8027dd8786f9252c1bdb5bce86">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-b61e08974977f90d80c58233345d872800d99403.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\exploded-aar\com.android.support\android-support-v4-preferencefragment-master\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2618cc37e9fd89af7305138f92883602fef70bdf">
+        <dex dex="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\pre-dexed\debug\classes-ff23a514319a1e2dda7dff77c501d71fa65e1a09.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\exploded-aar\Story-Studio-Pro\AndroidBootstrap\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4097169131f0d3dcdc3591e1ea548bf9e6315e05">
+        <dex dex="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\pre-dexed\debug\classes-eff90fd006f97cb76e072ed4540097d59f893f85.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\exploded-aar\StoryStudioPro\google-play-services_lib_lollipop\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6b24686ae07f3c864c744525a44a52701a6a451b">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-9c99ade571702d69735d786ea01f06a764c9c146.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\exploded-aar\com.android.support\android-support-v4-preferencefragment-master\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="97f01ff4b2846e9b0e94ac10865b137d56b4db5c">
+        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-1642618b61869ffbc25693909f4cf880cfb847db.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-5f580dd9cd4c7628bb26ad29e68cc453fcce427a.jar" />
+        <dex dex="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\pre-dexed\debug\classes-42699338644f8695713ee2fa1a483814a7b5c6b6.jar" />
     </item>
     <item
-        jar="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jar="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\exploded-aar\Story-Studio-Pro\google-play-services_lib_lollipop\unspecified\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-43d64d2d5cddea74b78c6a40c18ca3d6e4ec605c.jar" />
-    </item>
-    <item
-        jar="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\exploded-aar\com.android.support\android-support-v4-preferencefragment-master\1.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9997bea81c89de51f060dcd75a8d4ba282eee0d7">
-        <dex dex="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-f4c00a6de2157f6bd6350af45cafd3025fa8afd3.jar" />
+        sha1="8c44049b02e16b5c6d43f83e65a2d17481c8ad62">
+        <dex dex="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\pre-dexed\debug\classes-6031ea9d439885a4b70f50afd35cb39ee6a5c51f.jar" />
     </item>
     <item
         jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
@@ -65,20 +86,6 @@
         <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-4d24977b56eed15e952401fa0a21d7811ca53448.jar" />
     </item>
     <item
-        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\exploded-aar\StoryStudioPro\AndroidBootstrap\unspecified\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4258e65aa507dc8027dd8786f9252c1bdb5bce86">
-        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-b61e08974977f90d80c58233345d872800d99403.jar" />
-    </item>
-    <item
-        jar="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b4d95ca64dddaea103926cd519ef0a149d9dc3df.jar" />
-    </item>
-    <item
         jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -86,18 +93,11 @@
         <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-a0cdf50ee90a6bc16f499dd5fde844a72b5e29a7.jar" />
     </item>
     <item
-        jar="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\1.7.1\classes.jar"
+        jar="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\1.7.1\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="646a2b29dfd386add9f71768c9e40d8f730e9392">
-        <dex dex="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-3ddbed980dd5ccd97cb2dc04c94fa58884b57792.jar" />
-    </item>
-    <item
-        jar="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\exploded-aar\StoryStudioPro\google-play-services_lib_lollipop\unspecified\libs\google-play-services.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
-        <dex dex="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\pre-dexed\debug\google-play-services-be7be49e95dd12c9ad732d1950e9382e40a2c98f.jar" />
+        <dex dex="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\pre-dexed\debug\classes-64c13b92070cc08845682a7ed25a2bfcfacb4113.jar" />
     </item>
     <item
         jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\1.7.1\classes.jar"
@@ -107,18 +107,25 @@
         <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-12272a621f8b54d58c4fda8116a21eaa1e0fa70d.jar" />
     </item>
     <item
+        jar="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\pre-dexed\debug\classes-43e46d2d5c6750a52ad1c2e93682abc7191af601.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\exploded-aar\Story-Studio-Pro\google-play-services_lib_lollipop\unspecified\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
+        <dex dex="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\pre-dexed\debug\google-play-services-de08af706906804288262c7eedcf831e9debd254.jar" />
+    </item>
+    <item
         jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\exploded-aar\StoryStudioPro\google-play-services_lib_lollipop\unspecified\libs\google-play-services.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
         <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\google-play-services-2b7f74657c23c14b23dd7cd7aacb60c2c19bc9a1.jar" />
-    </item>
-    <item
-        jar="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\exploded-aar\StoryStudioPro\AndroidBootstrap\unspecified\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4690ccfbdd609f4dae4d7c8904b4f95be2968717">
-        <dex dex="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-2a5e2e91e20eb01832236e9d91fd3e81754a2c55.jar" />
     </item>
     <item
         jar="D:\Documents\Documents\Android Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
@@ -128,18 +135,11 @@
         <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-0a25a36c3f047245070cd2ccae09b33cc39b3976.jar" />
     </item>
     <item
-        jar="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\exploded-aar\StoryStudioPro\google-play-services_lib_lollipop\unspecified\classes.jar"
+        jar="D:\Documents\Documents\GitHub\Story-Studio-Pro\libs\jsoup-1.7.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="eb93ad72eaf415389274fe51ed0c09bf73c7ac1c">
-        <dex dex="D:\Documents\Documents\GitHub\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-45cb0fa59da4b76ccc036f1ea99999a082c62c2c.jar" />
-    </item>
-    <item
-        jar="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\exploded-aar\StoryStudioPro\google-play-services_lib_lollipop\unspecified\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="6b24686ae07f3c864c744525a44a52701a6a451b">
-        <dex dex="D:\Documents\Documents\Eclipse New Workspace\StoryStudioPro\build\intermediates\pre-dexed\debug\classes-9c99ade571702d69735d786ea01f06a764c9c146.jar" />
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da">
+        <dex dex="D:\Documents\Documents\GitHub\Story-Studio-Pro\build\intermediates\pre-dexed\debug\jsoup-1.7.3-c298e8d115cb849cb2bdd961e8e03aa7b695807c.jar" />
     </item>
 
 </items>

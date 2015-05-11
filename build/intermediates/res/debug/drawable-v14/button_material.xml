@@ -3,4 +3,4 @@
     <item android:drawable="@color/MadlibsBlueDark" android:state_pressed="true"/>
     <item android:drawable="@color/MadlibsBlue" android:state_focused="true"/>
     <item android:drawable="@color/MadlibsBlue"/>
-</selector><!-- From: file:/D:/Documents/Documents/GitHub/StoryStudioPro/res/drawable-v14/button_material.xml -->
+</selector><!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/drawable-v14/button_material.xml -->

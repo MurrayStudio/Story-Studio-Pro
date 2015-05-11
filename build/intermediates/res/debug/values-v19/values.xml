@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/Documents/Documents/GitHub/StoryStudioPro/res/values-v19/themes.xml -->
+    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/values-v19/themes.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/MadlibsBlue</item>

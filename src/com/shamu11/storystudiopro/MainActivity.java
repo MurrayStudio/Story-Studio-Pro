@@ -39,6 +39,7 @@ import com.shamu11.storystudiopro.MadlibsTracker.TrackerName;
 public class MainActivity extends ActionBarActivity implements
 		OnItemClickListener {
 
+	//instance variables
 	protected DrawerLayout drawerLayout;
 	private ListView listView;
 	private ActionBarDrawerToggle drawerListener;

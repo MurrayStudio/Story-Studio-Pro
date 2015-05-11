@@ -13,4 +13,4 @@
     	android:id="@+id/lblTitle"
     	android:gravity="left"
         />
-</LinearLayout><!-- From: file:/D:/Documents/Documents/GitHub/StoryStudioPro/AndroidBootstrap/res/layout/row_title.xml --><!-- From: file:/D:/Documents/Documents/GitHub/StoryStudioPro/AndroidBootstrap/build/intermediates/bundles/debug/res/layout/row_title.xml -->
+</LinearLayout><!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/AndroidBootstrap/res/layout/row_title.xml --><!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/AndroidBootstrap/build/intermediates/bundles/debug/res/layout/row_title.xml -->

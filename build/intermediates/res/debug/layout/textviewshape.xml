@@ -3,4 +3,4 @@
     <solid android:color="#FFFFFF"/>
     <corners android:radius="5px"/>
     <padding android:left="0dp" android:top="0dp" android:right="0dp" android:bottom="0dp" /> 
-</shape><!-- From: file:/D:/Documents/Documents/GitHub/StoryStudioPro/res/layout/textviewshape.xml -->
+</shape><!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/layout/textviewshape.xml -->

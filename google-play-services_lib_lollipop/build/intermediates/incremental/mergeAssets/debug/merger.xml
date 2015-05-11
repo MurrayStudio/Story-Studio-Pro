@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Documents\Documents\GitHub\StoryStudioPro\google-play-services_lib_lollipop\assets"/></dataSet><dataSet config="debug"><source path="D:\Documents\Documents\GitHub\StoryStudioPro\google-play-services_lib_lollipop\build-types\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\Documents\Documents\GitHub\Story-Studio-Pro\google-play-services_lib_lollipop\assets"/></dataSet><dataSet config="debug"><source path="D:\Documents\Documents\GitHub\Story-Studio-Pro\google-play-services_lib_lollipop\build-types\debug\assets"/></dataSet></merger>
