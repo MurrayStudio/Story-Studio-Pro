@@ -2,4 +2,4 @@
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?attr/colorControlHighlight">
     <item android:drawable="?attr/colorPrimary"/>
-</ripple><!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/drawable-v21/button_material.xml -->
+</ripple><!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/res/drawable-v21/button_material.xml -->

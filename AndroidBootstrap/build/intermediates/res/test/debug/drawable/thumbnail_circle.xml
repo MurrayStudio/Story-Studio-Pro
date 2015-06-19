@@ -4,4 +4,4 @@
         android:shape="oval">
         <solid android:color="@color/bthumbnail_placeholder"/>
     </shape>
-<!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/AndroidBootstrap/res/drawable/thumbnail_circle.xml --><!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/AndroidBootstrap/build/intermediates/bundles/debug/res/drawable/thumbnail_circle.xml -->
+<!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/AndroidBootstrap/res/drawable/thumbnail_circle.xml --><!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/AndroidBootstrap/build/intermediates/bundles/debug/res/drawable/thumbnail_circle.xml -->

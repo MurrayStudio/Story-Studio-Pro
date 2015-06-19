@@ -81,9 +81,12 @@ public class MainActivity extends ActionBarActivity implements
 		//ActionBar bar = getActionBar();
 		//bar.setBackgroundDrawable(new ColorDrawable(Color.parseColor("#428bca")));
 
+
 		SharedPreferences settings = PreferenceManager
 				.getDefaultSharedPreferences(getBaseContext());
 		String val1 = settings.getString("list0", "Blue");
+
+		//change status bar based off setting chosen
 
 		if (val1.equals("Blue")) {
 			toolbar.setBackgroundDrawable(new ColorDrawable(Color

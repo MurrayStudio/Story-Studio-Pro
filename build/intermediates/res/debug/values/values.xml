@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/values/strings.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/res/values/strings.xml -->
     <eat-comment/>
     <string-array name="LValues">
         <item>20</item>
@@ -106,7 +106,7 @@
         <item>Dark Grey</item>
         <item>Red</item>
     </string-array>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -118,7 +118,7 @@
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/values/colors.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/res/values/colors.xml -->
     <eat-comment/>
     <color name="AliceBlue">#F0F8FF</color>
     <color name="AntiqueWhite">#FAEBD7</color>
@@ -262,7 +262,7 @@
     <color name="WhiteSmoke">#F5F5F5</color>
     <color name="Yellow">#FFFF00</color>
     <color name="YellowGreen">#9ACD32</color>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
@@ -274,7 +274,7 @@
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
     <color name="background_material_light">#ffeeeeee</color>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="bbutton_danger">#ffd9534f</color>
     <color name="bbutton_danger_disabled">#a5d9534f</color>
@@ -321,7 +321,7 @@
     <color name="bbutton_warning_pressed">#ffed9c28</color>
     <color name="bbutton_warning_pressed_edge">#ffd58512</color>
     <color name="black">#ff000000</color>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -329,17 +329,17 @@
     <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
     <color name="bright_foreground_material_dark">@android:color/white</color>
     <color name="bright_foreground_material_light">@android:color/black</color>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="bthumbnail_background">#ffffffff</color>
     <color name="bthumbnail_border">#dbdbdb</color>
     <color name="bthumbnail_font">#7e7e7e</color>
     <color name="bthumbnail_placeholder">#e9e9e9</color>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_signin_btn_dark_text_default">@android:color/white</color>
@@ -351,7 +351,7 @@
     <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
     <color name="common_signin_btn_light_text_focused">#FF737373</color>
     <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -384,7 +384,7 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
     <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
@@ -399,7 +399,7 @@
     <color name="wallet_hint_foreground_holo_light">#808080</color>
     <color name="wallet_holo_blue_light">#ff33b5e5</color>
     <color name="wallet_link_text_light">#0000ee</color>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="white">#ffffffff</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
@@ -435,7 +435,7 @@
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
     <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
     <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
     <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
@@ -474,22 +474,22 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="bbuton_rounded_corner_radius">5dp</dimen>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/1.7.1/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/1.7.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="bottom_ellipsis_height">4dp</dimen>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="bthumbnail_rounded_corner_radius">3dp</dimen>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/1.7.1/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/1.7.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="default_padding_bottom">8dp</dimen>
     <dimen name="default_padding_top">8dp</dimen>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -497,23 +497,23 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/1.7.1/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/1.7.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="floating_label_text_size">12dp</dimen>
     <dimen name="inner_components_spacing">8dp</dimen>
     <dimen name="inner_padding_left">0dp</dimen>
     <dimen name="inner_padding_right">0dp</dimen>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="padding_large">16dp</dimen>
     <dimen name="padding_medium">12dp</dimen>
     <dimen name="padding_micro">4dp</dimen>
     <dimen name="padding_small">8dp</dimen>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/android-support-v4-preferencefragment-master/1.0.0/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/android-support-v4-preferencefragment-master/1.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="preference_fragment_padding_bottom">0dp</dimen>
     <dimen name="preference_fragment_padding_side">16dp</dimen>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
@@ -525,13 +525,13 @@
     <item name="split_action_bar" type="id"/>
     <item name="up" type="id"/>
     <integer name="abc_max_action_buttons">2</integer>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
     <eat-comment/>
     <integer name="google_play_services_version">6111000</integer>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/android-support-v4-preferencefragment-master/1.0.0/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/android-support-v4-preferencefragment-master/1.0.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="preference_fragment_scrollbarStyle">0x02000000</integer>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -549,21 +549,21 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="accept">Accept</string>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/values/strings.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
     <string name="app_name">"Story Studio Pro"</string>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/android-support-v4-preferencefragment-master/1.0.0/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/android-support-v4-preferencefragment-master/1.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="back_button_label">Back</string>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/values/strings.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/res/values/strings.xml -->
     <eat-comment/>
     <string name="changelog"><![CDATA[<u>Changelog</u>]]></string>
     <string name="close">Closed Drawer</string>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
     <string name="common_android_wear_update_text">This app won\'t run unless you update the Android Wear app.</string>
@@ -596,24 +596,24 @@
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="decline">Decline</string>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="hello_world">Hello world!</string>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/android-support-v4-preferencefragment-master/1.0.0/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/android-support-v4-preferencefragment-master/1.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="next_button_label">Next</string>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/values/strings.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/res/values/strings.xml -->
     <eat-comment/>
     <string name="open">Open Drawer</string>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/android-support-v4-preferencefragment-master/1.0.0/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/android-support-v4-preferencefragment-master/1.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="skip_button_label">Skip</string>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
     <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/AndroidBootstrap/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
@@ -622,14 +622,14 @@
             backward-compatibility can go here.
         -->
     </style>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/values/themes.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/res/values/themes.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/MadlibsBlue</item>
         <item name="colorPrimaryDark">@color/MadlibsBlueDark</item>
         <item name="android:textColor">@color/button_material_dark</item>
     </style>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance">
         <item name="android:textColor">?android:textColorPrimary</item>
@@ -1609,7 +1609,7 @@
         <item name="windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
     </style>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.IAPTheme" parent="android:Theme">
     <item name="android:windowIsTranslucent">true</item>
@@ -1619,7 +1619,7 @@
     <item name="android:windowIsFloating">true</item>
     <item name="android:backgroundDimEnabled">false</item>
   </style>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/res/values/styles.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/res/values/styles.xml -->
     <eat-comment/>
     <style name="Theme.MyTheme" parent="Theme.AppCompat.Light">
 
@@ -1627,14 +1627,14 @@
 
         <!-- The rest of your attributes -->
     </style>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/Story-Studio-Pro/google-play-services_lib_lollipop/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="WalletFragmentDefaultButtonTextAppearance">
         <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
@@ -1668,7 +1668,7 @@
         <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
         <item name="maskedWalletDetailsLogoImageType">classic</item>
     </style>
-    <!-- From: file:/D:/Documents/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/D:/Documents/GitHub/Story-Studio-Pro/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar"/>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid"/>
